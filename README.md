@@ -9,3 +9,8 @@ ls ~/.cache/huggingface/hub/ | grep -i dino
 /home/xhr/.cache/huggingface/hub/.locks/models--microsoft--rad-dino
 /home/xhr/.cache/huggingface/hub/models--microsoft--rad-dino
 models--microsoft--rad-dino
+
+
+编码器解码器的位置：
+ENC = "microsoft/BiomedVLP-CXR-BERT-specialized"
+DEC = "/data5/xhr/code/PriorRG/dataset/checkpoints/distilbert/distilgpt2"
